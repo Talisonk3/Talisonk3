@@ -11,7 +11,7 @@ Atualmente, estou aprimorando minhas competências em automação de testes com 
 
 * **Estratégia & Modelagem:** Planejamento de Testes, Cenários de Teste, BDD (Gherkin) e Shift-Left Testing.
 * **Testes de API:** Validação de requisições REST utilizando Postman e Insomnia (métodos GET, POST, PATCH, DELETE).
-* **Banco de Dados:** Consultas básicas e manipulação de dados com Oracle SQL.
+* **Banco de Dados:** Consultas básicas e manipulação de dados.
 * **Automação (Em evolução):** Automação End-to-End (E2E) para plataformas Web com Cypress.
 * **Gestão & Agilidade:** Azure DevOps, Jira, MeloQA e Metodologia Scrum (Possuo certificação SFPC).
 
