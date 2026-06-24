@@ -1,4 +1,4 @@
-Analista de Qualidade: Talison Vieira Brito
+#Analista de Qualidade: Talison Vieira Brito
 Ambiente: https://agendalabqa.vercel.app/ - Data: 24/06/2026
 
 Objetivo:
