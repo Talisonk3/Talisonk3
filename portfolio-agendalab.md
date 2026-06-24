@@ -32,7 +32,7 @@ O BDD é uma prática de desenvolvimento de software que visa integrar as regras
 * **Status:** 🟢 Aprovado
 * **Resultado Esperado:** O sistema deve impedir o envio do formulário, destacar todos os campos obrigatórios ausentes e exibir as respectivas mensagens de alerta.
 * **Resultado Obtido:** O formulário foi totalmente bloqueado e o sistema exibiu corretamente os alertas de obrigatoriedade para os campos Nome, Telefone, Serviço e Data, impedindo o processamento do agendamento.
-* **Evidência:** [Clique aqui para ver](./evidencias/ct-01.png) | [Imagem 2](./evidencias/ct-01-1.png) | [Imagem 3](./evidencias/ct-01-2.png)
+* **Evidência:** [Clique aqui para ver](./ct-01.png.png) | [Imagem 2](./ct-01-1.png.png) | [Imagem 3](./ct-01-2.png.png)
 
 #### **CT-02: Validar campo Nome aceitando apenas letras e espaço (exceto primeiro caractere)**
 **Dado** que o usuário está na tela de agendamento <br>
