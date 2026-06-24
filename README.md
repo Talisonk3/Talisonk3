@@ -1,9 +1,10 @@
 # Olá, eu sou o Talison Vieira! 👋
 
 Sou **Analista de Qualidade de Software (QA)** com sólida experiência em testes manuais, funcionais, integração e regressão em plataformas Web e Mobile. 
-Tenho vivência prática atuando em equipes multidisciplinares sob o modelo Ágil (Scrum) e aplicando práticas de Shift-Left Testing para mitigar falhas desde a concepção do produto.
+Tenho vivência prática atuando em equipes multidisciplinares sob o modelo Ágil (Scrum) e aplicando práticas de Shift-Left Testing para mitigar falhas desde a concepção do produto.Além disso, possuo experiência em testes de API utilizando Postman e na execução de requisições simples em SQL para validação de dados em banco de dados.
 
-Atualmente, estou aprimorando minhas competências em automação de testes com foco em frameworks modernos e testes de API.
+Atualmente, estou aprimorando minhas competências em automação de testes End-to-End (E2E) com foco em frameworks modernos.
+
 
 ---
 
