@@ -25,7 +25,7 @@ O BDD é uma prática de desenvolvimento de software que visa integrar as regras
 Para a modelagem dos cenários de teste, foi utilizada como base a documentação oficial de requisitos funcionais da plataforma AgendaLab QA, focando especificamente no módulo de **Novo Agendamento (RF004)**.
 
 📸 **Documentação de Referência:** (Clique na imagem para ampliá-la) <br>
-[![Requisitos do Sistema - AgendaLab](Evidências/requisitos.png.png)](Evidências/requisitos.png.png)
+[![Requisitos do Sistema - AgendaLab](Evidências/Requisitos.png.png)](Evidências/Requisitos.png.png)
 
 
 ---
