@@ -25,7 +25,7 @@ O BDD é uma prática de desenvolvimento de software que visa integrar as regras
 Para a modelagem dos cenários de teste, foi utilizada como base a documentação oficial de requisitos funcionais da plataforma AgendaLab QA, focando especificamente no módulo de **Novo Agendamento (RF004)**.
 
 📸 **Documentação de Referência:** (Clique na imagem para ampliá-la) <br>
-[![Requisitos do Sistema — AgendaLab](./requisitos.png.png)](./requisitos.png.png)
+[![Requisitos do Sistema - AgendaLab](Evidências/requisitos.png.png)](Evidências/requisitos.png.png)
 
 
 ---
@@ -43,7 +43,7 @@ Para a modelagem dos cenários de teste, foi utilizada como base a documentaçã
 * **Status:** 🟢 Aprovado
 * **Resultado Esperado:** O sistema deve impedir o envio do formulário, destacar todos os campos obrigatórios ausentes e exibir as respectivas mensagens de alerta.
 * **Resultado Obtido:** O formulário foi totalmente bloqueado e o sistema exibiu corretamente os alertas de obrigatoriedade para os campos Nome, Telefone, Serviço e Data, impedindo o processamento do agendamento.
-* **Evidência:** [Clique aqui para ver](./ct-01.png.png) | [Imagem 2](./ct-01-1.png.png) | [Imagem 3](./ct-01-2.png.png)
+* **Evidência:** [Clique aqui para ver](Evidências/ct-01.png.png) | [Imagem 2](Evidências/ct-01-1.png.png) | [Imagem 3](Evidências/ct-01-2.png.png)
 
 #### **CT-02: Validar campo Nome aceitando apenas letras e espaço (exceto primeiro caractere)**
 **Dado** que o usuário está na tela de agendamento <br>
